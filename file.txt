@@ -4,3 +4,4 @@ line3
 line4
 line5 from desktop
 line6 from github
+Test merge conflict added line from github
